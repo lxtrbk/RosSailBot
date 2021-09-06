@@ -1,6 +1,9 @@
 # RosSailBot
 small selfdriving sailboat
 
+## Dependencies
+[Get ready for this project](docs/DEPENDENCIES.md)
+
 ## Installation
 
 [Get ready for this project](docs/INSTALL.md)
@@ -8,3 +11,4 @@ small selfdriving sailboat
 ## Structure
 
 under construction
+
